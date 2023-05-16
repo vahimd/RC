@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(83, 3, 3);
+    height: 60px;
+    font-weight: 100px;
+    font-style: italic;
+}
+h1{
+    color: aliceblue;
+    margin-bottom: 60px;
+}
+#logo{
+    padding: 30px;
+}
+#cup{
+    padding-top: 20px;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
